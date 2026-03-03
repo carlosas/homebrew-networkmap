@@ -1,6 +1,6 @@
 cask "networkmap" do
-  version "0.0.1-alpha12"
-  sha256 "502cc17d2b20a0de03ee6c40ecb1414f2ec20c89e5d7c1f3857ce9352f7d4a4d"
+  version "0.0.1-alpha13"
+  sha256 "9498e4f216576cc2a88425567da80e026a7aec93301cf9588b84a99c8823dde3"
 
   url "https://github.com/carlosas/networkmap/releases/download/v#{version}/NetworkMap-#{version}.dmg"
   name "NetworkMap"
